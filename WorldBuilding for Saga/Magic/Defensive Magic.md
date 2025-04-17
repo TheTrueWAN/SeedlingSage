@@ -1,0 +1,2 @@
+Development of defensive magic has largely stagnated. Defensive spells need to be quick to cast or they are not in effect soon enough to protect the user.
+The standard defensive spell is [[Summon Barrier]].

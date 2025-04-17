@@ -1,0 +1,5 @@
+[[Construct]]
+[[Gun Knight]]
+[[Mage]]
+[[Warrior Monk]]
+[[Magical Knight]]

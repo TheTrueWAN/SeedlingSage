@@ -1,0 +1,4 @@
+<b>This addition to the world is entirely because I played Monster Hunter World and thought that it was cool.</b>
+[[Auctorita Mine]]s host unique monsters that reflect the locale they live in. People have discovered with time that they are a source of rare materials that may revolutionise life in the kingdom.
+One such monster that could rip souls from people was the source of the accident that culminated in the development of [[Construct]] technology. <b>Note: emphasise that this process is otherworldly and beyond human's ability to harness; a force of nature more than a product of science. Humans don't have power of their souls after all. They can get it to occur but that is all the power they have.</b>
+Some people aspire to be [[Monster Hunter]]s. Those that spend their lives studying the monsters and killing those that threaten them.

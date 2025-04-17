@@ -1,0 +1,3 @@
+Foreach book, have it be called "Seedling Saga abcd" where "abcd" is the year that the book occurs in, and "d" is the release order of the book.
+After the Seedling Saga concludes, follows with the "Bloom Saga", then the "Wither Saga"; something like that if the story is worth writing.
+This does mean that there is expected to be something of a flower motif across the saga; I will have to look into that.

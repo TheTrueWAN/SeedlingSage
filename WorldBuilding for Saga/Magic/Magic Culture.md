@@ -1,0 +1,1 @@
+While it is possible for anyone to use magic, there are a few ways it can be learned

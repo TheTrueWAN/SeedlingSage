@@ -1,0 +1,4 @@
+[[Construct]]s joining the [[Construct Army|Army]] spend a year here to train and learn the battle tactics and abilities of a [[Construct]].
+The program initially was poor (it was highly experimental at first) but it quickly developed into a prestigious program.
+People still remember what happened to the Flame Knights; thus the Academy seeks to ensure that all members are loyal to the Democratic government first and to the good people of the kingdom second. Corruption and disreputable behaviour is strictly punished amongst their ranks.
+Here [[Construct]]s and their handlers learn theory and practice. Units can specialise in [[Monster Hunting]] or in law enforcement.
