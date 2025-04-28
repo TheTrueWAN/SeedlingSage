@@ -8,7 +8,7 @@ Very serious character, focused on the mission. Rather quiet.
 The purpose of Fennel is to reflect the evolution of my own understanding of the world and my beliefs and my faith.
 Love in the grand -> love in the mundane
 Forgiveness of others -> also forgiveness of self
-A lack of purpose in living; "Why is it that you fight? That you rise in the morning to a day of endless toil, to see no other reward than its reoccurrence tomorrow?" -> serving for the glory of God (Not sure how to put this one in...)
+A lack of purpose in living; "Why is it that you fight? That you rise in the morning to a day of endless toil, to see no other reward than to repeat the act tomorrow?" -> serving for the glory of God (Not sure how to put this one in...)
 
 
 
@@ -41,14 +41,17 @@ A lack of purpose in living; "Why is it that you fight? That you rise in the mor
 		She selects a feminine frame with a focus on strength and speed so that she can wield a greatsword. It's a bit smaller than other frames but it makes it easier to move. The human Fennel is a little shorter than other people, so is about the same height as her frame.
 		They then go to the transfer laboratory. Fennel is sedated while her parents wait outside. <b>Consider foreshadowing that Fennel dies here and is replaced by giving the scene a little more weight and finality than everyone expects, maybe only one or two of the project leaders know what is about to happen.</b>
 		The transfer is otherwise uneventful and so Fennel becomes a [[Construct]]. She then is given a brief time with her parents and then is sent to the [[Construct Army Academy]] to learn to be a [[Construct]] soldier.
+		Being physically handicapped as a human, Fennel struggles more than others when learning how to move as a [[Construct]].
 	The purpose of Fennel spending time in the army is to acid test Fennel's ideals of being a Flame Knight as she will disagree to some of the methods used by the Army. How will she react to her borrowed ideals and values being scrutinised?
 		-Erode the values that Fennel espoused during her time as a human, she later will be reminded of them for some reason and have a moral awakening; she then comes to develop her own set of values and either decides to leave (abandoning her duty to her country -> regret), or standing firm and enduring having to inflict cruelties upon others (hurting others -> regret).
 		-She stands firm to her ideals and suffers as a result, she considers whether her borrowed ideals are worth holding on to, and someone or some event causes her resolve to harden and she holds on.
 		-She plays along but secretly nurtures a grudge against the cruel system she sees. She intends to change it or escape at the first opportunity. Maybe she is inspired to hold on to her duty to her country, even if it is a bloody one. Or maybe she deserts the army and it becomes a source of shame for the rest of her life.
 		In deserting the army, she stops fighting for them. In spite of her moral leanings everyone does concede that she is a valuable asset in any situation that she is in. Maybe she leaves some friends she makes behind, and this causes them to get hurt. She then regrets abandoning her duty and abandoning her friends.
+		**The conflict between soldier and knight could be of justice; maybe the soldier seeks punishment while the knight seeks redemption. The Flame Knights teach both to save those you love and to love everyone, for all are fellow traveller to the grave. Everyone deserves a second chance.**
 	Time in [[Construct Army Academy]]:
 		Her previous eight-ish years of training mean that she only really struggled with the practical; despite her mental exercises she still was uncoordinated for a long time. I suppose she would spend many hours just practicing moving around as a [[Construct]].
-		
+	*Fennel the Dawnblade*
+		After leaving the [[Construct Army]], Fennel ends up wandering the continent, helping people as she goes; with time a kind of legend grows around a mysterious [[Construct]] who carries a blade as bright as the sun that saves people from criminals and monsters. Without the oppressive eye of the Guilds, Fennel is able to use her training as a Flame Knight to the full. She tries to stay away from the Guild's influence and persecution of the Flame Knights but there are some rare incidents.
 
 *<b>SCRAPPED IDEAS</b>*
 
@@ -73,4 +76,4 @@ A lack of purpose in living; "Why is it that you fight? That you rise in the mor
 -"The Sword that Eats The Light" ("The Moonlit Blade")
 	Can absorb surrounding light to recharge her crystal heart. The sword grows brighter in the process. This causes people facing Fennel to focus on her sword as their eyes are drawn to the light. The sword was stolen by Fennel after she had left the [[Construct Army]].
 	In time it becomes the signature of a legend.
-<b>I'm unsure about this idea. It makes Fennel very overpowered compared to everyone around her, and such a weapon does not explain why no one else possesses one; most excuses have a level of contrivance about them. Maybe something simpler would work instead?</b>
+<b>I'm unsure about this idea. It makes Fennel very overpowered compared to everyone around her, and such a weapon does not explain why no one else possesses one; most excuses have a level of contrivance about them. Maybe something simpler would work instead?</b> The solution is the reverse; Fennel's legend is not that of the "moonlit blade" but of the "dawn blade". She makes her sword glow white hot in combat, and this becomes something of a callsign (is that the right word?)

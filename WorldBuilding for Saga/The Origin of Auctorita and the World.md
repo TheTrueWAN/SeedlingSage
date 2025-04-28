@@ -1,0 +1,2 @@
+I think that there should be some kind of mythology behind the world. It would go a part of the way to explain why [[Auctorita]] is here.
+Although, is that important to the story? The world is predicated on the existence of [[Auctorita]], and once this is accepted all else follows.

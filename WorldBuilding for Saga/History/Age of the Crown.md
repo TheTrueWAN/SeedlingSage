@@ -2,6 +2,7 @@ Recorded history begins here:
 0AC (0 years after the beginning of the Age of the Crown).
 The Crown and his kingdom was established. The first kings were great warriors who forged territory for their people with their collective blood.
 A nation grew from a city.
+<b>RESEARCH ROME AND HOW THEY CONQUERED EVERYWHERE, CONSIDER FOLLOWING SOME OF THEIR THEORY.</b>
 ~135AC
 The natives of a [[Flame Knight's Founding|village]] the Crown conquered were their first contact with [[Auctorita]]. Natives used a curious crystal to warm their homes. While this was a curious practice, most thought little of it and since the village agreed to be a part of the Crown's kingdom they soon left.
 

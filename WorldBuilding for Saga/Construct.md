@@ -1,6 +1,7 @@
 The greatest achievement of [[Auctorita]] research. The crystal heart of [[Auctorita]] imprinted with a human soul/mind animating a human-like "frame". They are human but seem otherworldly to the common man for their limited range of expression.
 
 Those who become constructs are closely monitored by the [[Guild of Auctorita]] for the first while to prevent illegal and erratic behaviour that abuses the power they have.
+When people are transferred they need to be taught how to move a Construct body. It is not built of nerves like a human one but instead moved near telekinetically; *Could the crystal heart power various "motor" elements in the construct frame in order to move? Telekinesis is supposed to be unfeasible after all.*
 
 Crystal Heart
 	The mind/soul of the person is stored in the [[Auctorita]]. Thus damage to the crystal will dramatically affect the person, be it there memory or personality or cognitive ability.
